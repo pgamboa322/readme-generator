@@ -14,6 +14,8 @@ AS A developer I WANT a README generator SO THAT I can quickly create a professi
 
 ![This image shows the header, navigation, banner and music section.](./assets/images/screenshot1.png)
 
+[Video Walkthrough](https://drive.google.com/file/d/1YoyFoASpqsTKKvYkiQ5HKa5kjIBZswHw/view)
+
 ## Links
 
 Github link: https://github.com/pgamboa322/readme-generator
